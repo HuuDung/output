@@ -1,0 +1,35 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "ad648b86444ab9a6e8c7fffb2a90ddc472be19ed.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/ad648b86444ab9a6e8c7fffb2a90ddc472be19ed.js?meteor_js_resource=true",
+      "size": 634725,
+      "hash": "ad648b86444ab9a6e8c7fffb2a90ddc472be19ed",
+      "sri": "XLWUFflzAx67Ps5BVCZnx5bi3vsQT0OVqEjkGQRFY1C4VrBtD2HIAL+mw00LkOUzT2LUvD9vM30bM6IrAAnIww=="
+    },
+    {
+      "path": "ad648b86444ab9a6e8c7fffb2a90ddc472be19ed.stats.json",
+      "where": "client",
+      "type": "json",
+      "cacheable": true,
+      "url": "/ad648b86444ab9a6e8c7fffb2a90ddc472be19ed.stats.json?meteor_js_resource=true",
+      "size": 24675,
+      "hash": "ffde87e4f986d65d2e327f865de42dbe80a827d3",
+      "sri": "tmP5+wdUEWe8e+G17hka2tpijlqfBU9XMtyUXh54oVzsGHJ1vHdQRN5UryFyGGcmFy32cxbZkrf9f2acdwUFOg=="
+    },
+    {
+      "path": "app/favicon.ico",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/favicon.ico",
+      "size": 930799,
+      "hash": "e7a4e01f2300945b86d42a5af73c37625cdddccd",
+      "sri": null
+    }
+  ]
+}
